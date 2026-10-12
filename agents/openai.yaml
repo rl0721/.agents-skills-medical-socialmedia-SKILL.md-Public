@@ -1,0 +1,10 @@
+interface:
+  display_name: Healthcare Evidence Upstream _Edt_Prf
+  short_description: Integrated upstream discovery, evidence grouping, and prototype generation with prototype-stage editorial profile shaping and provenance echoing.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
